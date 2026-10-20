@@ -8,55 +8,58 @@
       <pre>
 =++==========--------::---------------------
 =+========-------::-=++=-:::-::::-----------
-=+====---------:=*%@@@@@@@%=:::::::::::-----
--===-------::-:+%##%%@@@@@@@%-.:::::::::::--
--=-------:::::==     ..:=*%@@@+.:.::::::::::
-------::::::.-=        .:-+#@@@=.......:::::
-----::::::...+.        .:-+@@@@# ........:::
-:--:::::.....=+=:   .=+***+*@@@* . ........:
-:-::::...... .-=#: =++=#%%+=+@@-     .......
-:::::....          =:   :--=+@##:      .....
-:::.....           ==    :==*@%*.        ...
-.:.....         :+*%*.  :==+@@*.          ..
-.:....       .=#@@%@@%*-:+*%@:             .
-.....        :@@*==*#%@@%@@@@-.
-....         :@@%%@@@@#%@@@@#@@:
-....         :@%%*#@@%@@@@@@*@@@-
-....      .-*%%%@@@@@@@@@@##@@@@@@*:
-...  :=*%@@@@@%%@=-+*#%#*#@@@@@@@@@@@#+:
-.. -#@@@@@@@%%%@@%- .::=#@@@@@@@@@@@@@@@@#=:
-..-@@@@@@@@@@@@@@@@#-=#@@@@@@@@@@@@@@@@@@@@@
-.-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.#@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@
+=+====---------:=*%MMMMMMM%=:::::::::::-----
+-===-------::-:+%##%%MMMMMMM%-.:::::::::::--
+-=-------:::::==     ..:=*%MMM+.:.::::::::::
+------::::::.-=        .:-+#MMM=.......:::::
+----::::::...+.        .:-+MMMM# ........:::
+:--:::::.....=+=:   .=+***+*MMM* . ........:
+:-::::...... .-=#: =++=#%%+=+MM-     .......
+:::::....          =:   :--=+M##:      .....
+:::.....           ==    :==*M%*.        ...
+.:.....         :+*%*.  :==+MM*.          ..
+.:....       .=#MM%MM%*-:+*%M:             .
+.....        :MM*==*#%MM%MMMM-.
+....         :MM%%MMMM#%MMMM#MM:
+....         :M%%*#MM%MMMMMM*MMM-
+....      .-*%%%MMMMMMMMMM##MMMMMM*:
+...  :=*%MMMMM%%M=-+*#%#*#MMMMMMMMMMM#+:
+.. -#MMMMMMM%%%MM%- .::=#MMMMMMMMMMMMMMMM#=:
+..-MMMMMMMMMMMMMMMM#-=#MMMMMMMMMMMMMMMMMMMMM
+.-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+.#MMMMMMMMMMMMMMMMMM%MMMMMMMMMMMMMMMMMMMMMMM
       </pre>
     </td>
     <td width="52%" valign="top">
       <p align="center"><strong>PAINEL DE INFRAESTRUTURA</strong></p>
       <pre>
-lucio@infra:~$ profile --summary
+PERFIL
 Analista de Infraestrutura de TI
 Rio Grande do Sul, Brasil
 
-lucio@infra:~$ focus
+ATUAÇÃO
 Redes e conectividade
 Servidores e virtualização
 Monitoramento e suporte
 Automação de rotinas
 
-lucio@infra:~$ stack
+FERRAMENTAS
 Linux · Microsoft 365 · pfSense
 Zabbix · XCP-ng · TrueNAS · Power BI
 
-lucio@infra:~$ workflow
-observar → investigar → documentar → automatizar
+MÉTODO
+Observar · investigar · documentar · melhorar
       </pre>
     </td>
   </tr>
 </table>
 
-Sobre
+## Sobre
+
 Atuo na sustentação e evolução de ambientes de TI em contexto industrial. Gosto de investigar problemas, documentar soluções e criar ferramentas que tornem o trabalho da equipe mais simples e confiável.
-Minha caixa de ferramentas
+
+## Minha caixa de ferramentas
+
 <p>
   <img src="https://img.shields.io/badge/Linux-222?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/Windows%20Server-222?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Server">
@@ -70,11 +73,17 @@ Minha caixa de ferramentas
   <img src="https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 </p>
 
-O que me interessa
+## O que me interessa
+
 - Redes corporativas, Wi-Fi e segurança de perímetro.
 - Linux, Windows Server, virtualização e armazenamento.
 - Observabilidade, documentação e melhoria contínua do suporte.
 - Scripts e aplicações pequenas para necessidades reais.
-Em construção
+
+## Em construção
+
 Experimentos com automação, ferramentas web e soluções para infraestrutura e laboratório doméstico.
+
+---
+
 <p align="center"><sub>Feito no Rio Grande do Sul, Brasil · Curiosidade sempre ligada ☕</sub></p>
