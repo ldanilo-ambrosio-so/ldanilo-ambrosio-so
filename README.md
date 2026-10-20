@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Lucio Danilo</h1>
+<p align="center"><strong>Infraestrutura de TI · Redes · Linux · Automação</strong><br>Rio Grande do Sul, Brasil</p>
 
-<!--
-**ldanilo-ambrosio-so/ldanilo-ambrosio-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="48%" valign="top" align="center">
+      <p><strong>RETRATO ASCII · CAPTURADO DO PERFIL</strong></p>
+      <pre>
+=++==========--------::---------------------
+=+========-------::-=++=-:::-::::-----------
+=+====---------:=*%@@@@@@@%=:::::::::::-----
+-===-------::-:+%##%%@@@@@@@%-.:::::::::::--
+-=-------:::::==     ..:=*%@@@+.:.::::::::::
+------::::::.-=        .:-+#@@@=.......:::::
+----::::::...+.        .:-+@@@@# ........:::
+:--:::::.....=+=:   .=+***+*@@@* . ........:
+:-::::...... .-=#: =++=#%%+=+@@-     .......
+:::::....          =:   :--=+@##:      .....
+:::.....           ==    :==*@%*.        ...
+.:.....         :+*%*.  :==+@@*.          ..
+.:....       .=#@@%@@%*-:+*%@:             .
+.....        :@@*==*#%@@%@@@@-.
+....         :@@%%@@@@#%@@@@#@@:
+....         :@%%*#@@%@@@@@@*@@@-
+....      .-*%%%@@@@@@@@@@##@@@@@@*:
+...  :=*%@@@@@%%@=-+*#%#*#@@@@@@@@@@@#+:
+.. -#@@@@@@@%%%@@%- .::=#@@@@@@@@@@@@@@@@#=:
+..-@@@@@@@@@@@@@@@@#-=#@@@@@@@@@@@@@@@@@@@@@
+.-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+.#@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@
+      </pre>
+    </td>
+    <td valign="top">
+      <pre>
+lucio@infra:~$ profile --summary
+Analista de Infraestrutura de TI
+Ambiente: operação industrial
+Localização: Rio Grande do Sul, BR
 
-Here are some ideas to get you started:
+lucio@infra:~$ focus
+Redes e conectividade
+Servidores e virtualização
+Monitoramento e suporte
+Automação de rotinas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+lucio@infra:~$ status
+Investigando. Documentando. Melhorando.
+      </pre>
+    </td>
+  </tr>
+</table>
+
+## Sobre
+
+Atuo na sustentação e evolução de ambientes de TI em contexto industrial. Gosto de investigar problemas, documentar soluções e criar ferramentas que tornem o trabalho da equipe mais simples e confiável.
+
+## Minha caixa de ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-222?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows%20Server-222?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Microsoft%20365-222?style=flat-square&logo=microsoftoffice&logoColor=D83B01" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/pfSense-222?style=flat-square&logo=pfsense&logoColor=fff" alt="pfSense">
+  <img src="https://img.shields.io/badge/Zabbix-222?style=flat-square&logo=zabbix&logoColor=DC382D" alt="Zabbix">
+  <img src="https://img.shields.io/badge/XCP--ng%20%2F%20Xen-222?style=flat-square&logo=xen&logoColor=fff" alt="XCP-ng e Xen">
+  <img src="https://img.shields.io/badge/TrueNAS-222?style=flat-square&logo=truenas&logoColor=0095D5" alt="TrueNAS">
+  <img src="https://img.shields.io/badge/Power%20BI-222?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-222?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</p>
+
+## O que me interessa
+
+- Redes corporativas, Wi-Fi e segurança de perímetro.
+- Linux, Windows Server, virtualização e armazenamento.
+- Observabilidade, documentação e melhoria contínua do suporte.
+- Scripts e aplicações pequenas para necessidades reais.
+
+## Em construção
+
+Experimentos com automação, ferramentas web e soluções para infraestrutura e laboratório doméstico.
+
+---
+
+<p align="center"><sub>Feito no Rio Grande do Sul, Brasil · Curiosidade sempre ligada ☕</sub></p>
