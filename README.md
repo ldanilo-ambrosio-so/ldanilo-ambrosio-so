@@ -5,30 +5,27 @@
   <tr>
     <td width="48%" valign="top" align="center">
       <pre>
-=======--------:.   .     .:--------------
-====--------:. .=#MMMMMMM#=  .:::::-------
-=---------:: =MMMMMMMMMMMMMM*  :::::::::::
------------.#MMMMMMMMMMMMMMMMM= .:::::::::
--------:::.*M    ..  .:-+%MMMMMM  ::::::::
------:::: -M           ..:-+MMMMM  ..:::::
---::::::. M          ...:-+=%MMMM+ .......
-:::::::: +M              -+*MMMMMM .......
-:::::... +M:.        :=---=+MMMMMM  ......
-::...... .%#MM#  .*MMMMMMM#=-*MMM= .  ....
-:.......  :::M%  =%+=.%MMM#+=.MMM.      ..
-.......  .       *=    .--.:+:MM*M*
-....             -*.      :=--MM%%#
-..               ++*    .:=+:%M%MM
-..       .    *+#M#-    :===+MMM*
-.        .  #MMMMMMM*-  .===%MM
-          MMMMM:-*MMMMM+-#%MMM
-          MMM- :--=++#MMMMMMMM+*
-          MMMMMMMMMMM%*MMMMMMM+MM
-          MM%#=-=%MMM%MMMMMMM-+MMM
-          #MMM%%MMM*%MMMMMMM+*MMMMM=
-      .+MMM%%MMMMMMMMMMMM%*+%MMMMMMMMM=
- -#MMMMMMM%M%M= +#%MMMM%#*#MMMMMMMMMMMMMM#
-MMMMMMMMM%%MMMM.   .:::-+MMMMMMMMMMMMMMMMM
+=======-==----:.   .::     .--------------
+===---------: .-#MMMMMMMMM#:  ::::::::----
+-----------.:MMMMMMMMMMMMMMMM-  ::::::::::
+----------::MM=:-##*#%%MMMMMMMM: .::::::::
+------:::..M            .-*%MMMM* .:::::::
+---:::::: M.          ..::==%MMMM= ....:::
+:::::::: =M              -+*MMMMMM .......
+:::::... =M--       .=+====+MMMMMM  ......
+::...... .##MMM  :%MMMMMMM%+-+MMM:     ...
+:.......     *-  +#:  +#M%+-=.MMM-       .
+.....            +=        :=:MM*MM
+...              -*=     .=+:+MMMM:
+..       .    :.+M*=    :==++MMM%-
+.        .  *MMMMMMM+:   ===%MM
+          MMMM#::+MMMMM*=#MMMM
+          MMM+=*****+#MMMMMMMM*M=
+          MMMMMMMMMMM%#MMMMMM#=MM-
+          #M%%+=*MM%#MMMMMMMM-MMMM+
+        *MM%MMMMMMMMMMMMMM%++MMMMMMMM-
+  -*MMMMMMMM%M+=MMMMMMMM%**MMMMMMMMMMMMM%-
+MMMMMMMMM%%MMMM    .:::-+%MMMMMMMMMMMMMMMM
       </pre>
     </td>
     <td width="52%" valign="top">
