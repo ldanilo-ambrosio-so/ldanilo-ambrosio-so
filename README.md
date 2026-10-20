@@ -4,35 +4,37 @@
 <table>
   <tr>
     <td width="48%" valign="top" align="center">
-      <p><strong>RETRATO EM ASCII</strong></p>
       <pre>
-=++==========--------::---------------------
-=+========-------::-=++=-:::-::::-----------
-=+====---------:=*%MMMMMMM%=:::::::::::-----
--===-------::-:+%##%%MMMMMMM%-.:::::::::::--
--=-------:::::==     ..:=*%MMM+.:.::::::::::
-------::::::.-=        .:-+#MMM=.......:::::
-----::::::...+.        .:-+MMMM# ........:::
-:--:::::.....=+=:   .=+***+*MMM* . ........:
-:-::::...... .-=#: =++=#%%+=+MM-     .......
-:::::....          =:   :--=+M##:      .....
-:::.....           ==    :==*M%*.        ...
-.:.....         :+*%*.  :==+MM*.          ..
-.:....       .=#MM%MM%*-:+*%M:             .
-.....        :MM*==*#%MM%MMMM-.
-....         :MM%%MMMM#%MMMM#MM:
-....         :M%%*#MM%MMMMMM*MMM-
-....      .-*%%%MMMMMMMMMM##MMMMMM*:
-...  :=*%MMMMM%%M=-+*#%#*#MMMMMMMMMMM#+:
-.. -#MMMMMMM%%%MM%- .::=#MMMMMMMMMMMMMMMM#=:
-..-MMMMMMMMMMMMMMMM#-=#MMMMMMMMMMMMMMMMMMMMM
-.-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.#MMMMMMMMMMMMMMMMMM%MMMMMMMMMMMMMMMMMMMMMMM
+=======--------:.   .     .:--------------
+====--------:. .=#MMMMMMM#=  .:::::-------
+=---------:: =MMMMMMMMMMMMMM*  :::::::::::
+-----------.#MMMMMMMMMMMMMMMMM= .:::::::::
+-------:::.*M    ..  .:-+%MMMMMM  ::::::::
+-----:::: -M           ..:-+MMMMM  ..:::::
+--::::::. M          ...:-+=%MMMM+ .......
+:::::::: +M              -+*MMMMMM .......
+:::::... +M:.        :=---=+MMMMMM  ......
+::...... .%#MM#  .*MMMMMMM#=-*MMM= .  ....
+:.......  :::M%  =%+=.%MMM#+=.MMM.      ..
+.......  .       *=    .--.:+:MM*M*
+....             -*.      :=--MM%%#
+..               ++*    .:=+:%M%MM
+..       .    *+#M#-    :===+MMM*
+.        .  #MMMMMMM*-  .===%MM
+          MMMMM:-*MMMMM+-#%MMM
+          MMM- :--=++#MMMMMMMM+*
+          MMMMMMMMMMM%*MMMMMMM+MM
+          MM%#=-=%MMM%MMMMMMM-+MMM
+          #MMM%%MMM*%MMMMMMM+*MMMMM=
+      .+MMM%%MMMMMMMMMMMM%*+%MMMMMMMMM=
+ -#MMMMMMM%M%M= +#%MMMM%#*#MMMMMMMMMMMMMM#
+MMMMMMMMM%%MMMM.   .:::-+MMMMMMMMMMMMMMMMM
       </pre>
     </td>
     <td width="52%" valign="top">
-      <p align="center"><strong>PAINEL DE INFRAESTRUTURA</strong></p>
       <pre>
+PAINEL DE INFRAESTRUTURA
+
 PERFIL
 Analista de Infraestrutura de TI
 Rio Grande do Sul, Brasil
